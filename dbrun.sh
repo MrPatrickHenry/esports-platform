@@ -1,0 +1,1 @@
+./cloud_sql_proxy -instances=leaguevalvr:us-central1:valappvr=tcp:3306 -credential_file=leaguevalvr-d394f1a3b3e6.json

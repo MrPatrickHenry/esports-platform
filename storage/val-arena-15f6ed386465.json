@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "val-arena",
+  "private_key_id": "15f6ed386465d816faf59901752df617a8fa572f",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQConvPfMg+4Yy9b\nbbfE0ohB7dQY0sWVmItuDDCT3V3j4g8xwSUBH6zlKR4Fd9UnTrrTen3Ef6VUukWY\nL6f3nXZjUmuX+eeITojc02TqyzJ3z6Ss8PFUgF4bdpKijxadj5cd60UiAbb9TWv7\np4PE6ZVFEuEjD4hrVMuHpTUlyhVFWAYKf97VRlVpDOZf4OMTprAgvJ3l2cHshOKr\nLQtOxGohc0kccTM3Xy5ODIg1kqRk9Q8LaARo53uzs4hROT5QWUPlMiVUk00Ryr+d\nSTXF5u4HA14MuCoIaOu521leI/XXLFceK1Grd7Smr/zPVvVXBsZ2ZLp7nZgLX4PB\n4wKoqWtBAgMBAAECggEAAvNTE5j55vFPWxNyp35ClZq+fxezDuDOMcUDVZcGRU5H\nk0iMp/YgrZrYVGKqJ2esg7ZNPJK6Nx8SSC0vTHkkIO1Ihi6Ag2VSZkDJr4USMz/+\nIuuNYXvkiaj7vF3yGJwyWfrrqQJsLAb+iHcAKoIm00BXEai8K5qefBdjNG/SivXN\nwKBcs6CiSHRG4jViuFz+VJhckHZOA7pTHjskmIZe/PfHCZLyZr4ZEPRwJMjrTUXh\n2M2L8YrNtEcJTulkRqY060w5RqbsuONY+eNBf8+/yEiapnyNMLzXJtm9cmxk8j6p\n6CQIhWBzVvLkZzqzmIQuUznwLoMa28rZIUnIU4QiRQKBgQDuC8lJ1+01mnjkBSIp\nXDOLXk3KOfSsBtLyIohRDvRJeXt+Sua5L1oFyoKsLDT3b+/h3FQ98w2sj2obzZDO\nX7FQKlseXju919VSn+U1mm5hW3aoZGzjgKgB8Rnz4rCzKXJI47+PrZ51pbcdqA2G\nmBirT805oQ6AU1TZEDqOFCATZQKBgQC1VrMo//O81hlgEALioCEdmJajttzi/cj3\nuIag/Fiiuqknqd0Usa6yEs0zN7rb2bAmuXQo46Eps//Y6KEVkx9et2dVyyf7UO/R\nut6HU4ryIAzdJov5uiSdSDGQTsgtKSdac86PnYbvG0M+VojQ3eYMjJv9GQCG+JFM\nLWh4wU4QrQKBgBWEczl9jy+dOvhBjoj2kKI0cAurmXZDV6YTgQbytxo9JPCRjLGI\nmjaTy6QMiu0i7SgZZnQDGGVUwV6qAkDlXX3Fll70XaoXbGz/jxR9VSTvw5YNHdqi\nso0aYiIth5NqV65HB/XQ19YCmL7Rhgd4kCJMIFzpNgpbffvw/5oAL7YRAoGAAW42\nqZsjTBkQSC64JxuGR1p9zbrSkUPZQwMEpN54wIfib7qqUNB6BVOapM3KvpNADX4n\nCW+KRO7zlL15D9eCRtgBi663mQbxbWEhAkZJcVGJaHE2Z3jtcwQvx+inMZwCgHcr\naPygJOC9Lg+2spcdinnNfTimRWpOkyBEk7dKq10CgYBs21FoTgok9mOsq9W+fY3Z\nTdGHFAKP9/9pgd61Z6nK58WYNIzf+Kz35DnbqopZd3LmB3cG0bqJj2lwV1Ti9njg\nYZ5AXh5pt2hKdrawiqtVYpEBmSIiglhQ5xoQHgJ0xMu4IQJlkvTsjZJqvALkj+27\n16SChFPuzRMWf1bsbpFoZw==\n-----END PRIVATE KEY-----\n",
+  "client_email": "filestorage@val-arena.iam.gserviceaccount.com",
+  "client_id": "118077941042126627497",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/filestorage%40val-arena.iam.gserviceaccount.com"
+}
